@@ -1,0 +1,26 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsambrose26/liri-node-app.git"
+  },
+  "keywords": [
+    "liri"
+  ],
+  "author": "Derek Ambrose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsambrose26/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/dsambrose26/liri-node-app#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  },
+  "devDependencies": {}
+}
