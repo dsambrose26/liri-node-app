@@ -1,6 +1,8 @@
 # liri-node-app
+https://dsambrose26.github.io/liri-node-app/
 
-Technologies Utilized: Node.js, Spotify API, Twitter API, OMDB API, and File Support for reading and writing to a log.txt
+
+Technologies Utilized: Node.js, Spotify API, Twitter API, OMDB API, and File Support for reading and writing to a log.txt file. (CODING STILL IN PROGRESS)
 
 ************************ Instructions ************************
 
